@@ -1,0 +1,1 @@
+var mystrings=['String1', 'String2'];
